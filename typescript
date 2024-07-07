@@ -1,0 +1,39 @@
+Script started on 2024-07-07 14:23:05+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="149" LINES="11"]
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ g++ project1_task1.cpp fraction.cpp
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ ./a.out
+Default fraction: 0/1
+Parameterized constructor fraction: 3/4
+After setting numerator to 5 and denominator to 6: 5/6
+Numerator: 5
+Denominator: 6
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ g++ project1_task2.cpp newfraction1.cpp 
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ ./a.out
+Enter the first fraction: numerator denominator
+3 2
+Enter the second fraction: numerator denominator
+5 3
+The two fractions entered are
+f1 = 3/2
+f2 = 5/3
+The arithmetic operations on these two fractions:
+f1 + f2 = 19/6
+f1 - f2 = -1/6
+f1 * f2 = 15/6
+f1 / f2 = 9/10
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ g++ project1_task3.cpp newfraction2.cpp 
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ ./ao[K.out 
+Enter the first fraction: numerator denominator
+3 5
+Enter the second fraction: numerator denominator
+2 3
+The two fractions entered are
+f1 = 3/5
+f2 = 2/3
+The arithmetic operations on these two fractions:
+f1 + f2 = 19/15
+f1 - f2 = -1/15
+f1 * f2 = 6/15
+f1 / f2 = 9/10
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ exit
+
+Script done on 2024-07-07 14:25:28+00:00 [COMMAND_EXIT_CODE="0"]
